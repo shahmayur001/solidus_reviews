@@ -1,6 +1,11 @@
-Copyright (c) 2025 Global Media Service S.r.l. and contributors to this repository collectively referred to as Contributors
-Copyright (c) 2014-2025 Nebulab S.r.l. and contributors to this repository collectively referred to as Contributors
-Copyright (c) 2010-2014 Spree Inc. and contributors to this repository collectively referred to as Contributors
+# License for the original work
+
+Copyright © 2014-2025, Blish GmbH for the individual contributions by Blish.
+Copyright © 2014-2025, Nebulab Srl for the individual contributions by Nebulab.
+Copyright © 2014-2025, Super Good Software Inc. for the individual contributions by Super Good Software
+Copyright © 2014-2025, All other contributors individually as stated in the Github commit history collectively referred to as Contributors.
+Copyright © 2007-2014, Spree Commerce Inc. and other contributors.
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -26,3 +31,5 @@ PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Licenses for all other components used can be found in the file [Additional Licenses](additionallicenses.md).
