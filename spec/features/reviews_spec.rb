@@ -7,7 +7,7 @@ RSpec.describe 'Reviews', js: true do
   let!(:someone) { create(:user, email: 'ryan@spree.com') }
   let!(:review) { create(:review, :approved, user: someone) }
   let!(:unapproved_review) { create(:review, product: review.product) }
-  let(:file_path) { file_fixture("thinking-cat.jpg") }
+  let(:file_path) { file_fixture("review-test-image.jpg") }
 
   before do
     stub_spree_preferences(Spree::Reviews::Config, include_unapproved_reviews: false)
